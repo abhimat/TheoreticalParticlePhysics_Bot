@@ -535,6 +535,8 @@ Abstract: I give a broad review of novel phenomena discovered in Yang-Mills theo
 
 Title: Integrand-level reduction of high-loop scattering amplitudes via computational algebraic geometry
 
+Title: Loops, Trees, and Higgs EFTs
+
 Title: Black Hole Shadows, Photon Rings, and the Event Horizon Telescope Observations
 
 Title: Playing with Topological Defects in 2d
@@ -575,3 +577,10 @@ Abstract: In this talk I will consider MSYM on spheres up to 7 dimensions. We sh
 
 Title: Koszul duality in field theory & holography
 Abstract: In this talk we discuss the problem of coupling quantum field theories to topological line defects and explain that it is governed by a central mathematical notion called Koszul duality for associative algebras. We then propose an analogous physical definition of Koszul duality for chiral algebras. We will explain that in the context of (a twisted version of) AdS(3)/CFT(2), in which a chiral algebra naturally arises in the CFT(2), a deformation of this version of Koszul duality can be used to compute algebra OPEs. This talk is based on work in collaboration with K. Costello.
+
+Title: Diabolical points in QFT and quantum lattice models
+Abstract: It was shown by von Neumann and Wigner that because of level repulsion in Quantum Mechanics generically one needs to tune three parameters to achieve ground-state degeneracy. Much later it was observed by Michael Berry that the locus where the degeneracy occurs is a monopole for the Berry curvature and thus can be detected by studying the system away from the degenerate locus. Such loci in the parameter space became known as diabolical loci. In this talk I will extend these considerations for Quantum Field Theory and lattice models. The many-body analogs of diabolical loci are topologically protected loci in the phase diagram where a phase transition occurs. Such phase transitions are surrounded by a trivial phase, but nevertheless cannot be removed by any short-distance modification of the theory which does not affect the phase diagram away from the phase transition. One can detect the presence of many-body diabolical loci by studying Wess-Zumino-Witten and related terms in the effective action for the parameters. I will explain a conjectural classification of diabolical loci in an arbitrary number of dimensions. I will also explain how to compute Wess-Zumino-Witten terms for lattice models using the approach previously proposed by Kitaev.
+
+Title: Anomalous Dimensions from Thermal AdS Partition Functions
+Abstract: We develop an efficient method for computing thermal partition functions of weakly coupled scalar fields in AdS. We consider quartic contact interactions and show how to evaluate the relevant two-loop vacuum diagrams without performing any explicit AdS integration, the key step being the use of Kallen-Lehmann type identities. This leads to a simple method for extracting double-trace anomalous dimensions in any spacetime dimension, recovering known first-order results in a streamlined fashion.
+
